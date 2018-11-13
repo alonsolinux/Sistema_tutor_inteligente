@@ -1,0 +1,11 @@
+C:\Users\alberto alonso\source\repos\SistemasTutorInteligente\SistemasTutorInteligente\bin\Debug\netcoreapp2.0\SistemasTutorInteligente.deps.json
+C:\Users\alberto alonso\source\repos\SistemasTutorInteligente\SistemasTutorInteligente\bin\Debug\netcoreapp2.0\SistemasTutorInteligente.runtimeconfig.json
+C:\Users\alberto alonso\source\repos\SistemasTutorInteligente\SistemasTutorInteligente\bin\Debug\netcoreapp2.0\SistemasTutorInteligente.runtimeconfig.dev.json
+C:\Users\alberto alonso\source\repos\SistemasTutorInteligente\SistemasTutorInteligente\bin\Debug\netcoreapp2.0\SistemasTutorInteligente.dll
+C:\Users\alberto alonso\source\repos\SistemasTutorInteligente\SistemasTutorInteligente\obj\Debug\netcoreapp2.0\SistemasTutorInteligente.csprojAssemblyReference.cache
+C:\Users\alberto alonso\source\repos\SistemasTutorInteligente\SistemasTutorInteligente\obj\Debug\netcoreapp2.0\SistemasTutorInteligente.csproj.CoreCompileInputs.cache
+C:\Users\alberto alonso\source\repos\SistemasTutorInteligente\SistemasTutorInteligente\obj\Debug\netcoreapp2.0\SistemasTutorInteligente.AssemblyInfoInputs.cache
+C:\Users\alberto alonso\source\repos\SistemasTutorInteligente\SistemasTutorInteligente\obj\Debug\netcoreapp2.0\SistemasTutorInteligente.AssemblyInfo.cs
+C:\Users\alberto alonso\source\repos\SistemasTutorInteligente\SistemasTutorInteligente\bin\Debug\netcoreapp2.0\SistemasTutorInteligente.pdb
+C:\Users\alberto alonso\source\repos\SistemasTutorInteligente\SistemasTutorInteligente\obj\Debug\netcoreapp2.0\SistemasTutorInteligente.dll
+C:\Users\alberto alonso\source\repos\SistemasTutorInteligente\SistemasTutorInteligente\obj\Debug\netcoreapp2.0\SistemasTutorInteligente.pdb

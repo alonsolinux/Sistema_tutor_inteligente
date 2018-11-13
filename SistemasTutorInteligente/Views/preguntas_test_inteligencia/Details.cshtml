@@ -1,0 +1,30 @@
+﻿@model SistemasTutorInteligente.Models.preguntas_test_inteligencia
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>preguntas_test_inteligencia</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.num_pregunta)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.num_pregunta)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.pregunta)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.pregunta)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.IDpreguntas_test">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
